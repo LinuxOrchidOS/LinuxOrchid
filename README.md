@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parker. 
+- 👋 Hi, I’m Parker, aka @DaSh1101. 
 - I'm currently working on an linux operating system known as Linux Orchid
 - 🌱 I’m currently learning the fundimental basics of making a Linux OS based off of debian
 - 💞️ I’m looking to collaborate on Linux Orchid
