@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Parker, aka @DaSh1101. 
-- I'm currently working on an linux operating system known as Linux Orchid
-- You can reach me here: https://discord.com/invite/FdeCkejmHx
-- This is basically a concept of an operating system that i'm trying to kick-start.
